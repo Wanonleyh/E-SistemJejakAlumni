@@ -1,2 +1,2 @@
 # E-SistemJejakAlumni
-E-Sisja | 
+E-Sisja | Sistem Penyimpanan Maklumat dan Data Alumni KVKS
